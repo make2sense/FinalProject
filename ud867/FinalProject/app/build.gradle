@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+sourceCompatibility = 1.7
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'testjks'
+            keyPassword '0000000000'
+            storeFile file('/Users/Limeng/AndroidStudioProjects/JokeTeller-master/testjks.jks')
+            storePassword '0000000000'
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "com.udacity.gradle.builditbigger"
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+// ref: https://www.youtube.com/watch?v=7JDEK4wkN5I
+    productFlavors {
+        freeflavor {
+            applicationId "com.udacity.gradle.builditbigger.free"
+            versionCode 1
+            versionName '1.0.0'
+            minSdkVersion 17
+            targetSdkVersion 23
+        }
+        paidflavor {
+            applicationId "com.udacity.gradle.builditbigger.paid"
+            versionCode 1
+            versionName '1.0.0'
+            minSdkVersion 17
+            targetSdkVersion 23
+        }
+    }
+
+// http://stackoverflow.com/questions/32807587/com-android-build-transform-api-transformexception
+    defaultConfig {
+        multiDexEnabled true
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    // Added for AdMob
+    compile project(':jokeslibjava')
+    compile project(':jokeslibandroid')
+    compile project(path: ':backend', configuration: 'android-endpoints')
+    compile project(path: ':backend', configuration: 'android-endpoints')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.google.android.gms:play-services:9.0.2'
+    compile 'com.google.android.gms:play-services-ads:9.0.2'
+}
+

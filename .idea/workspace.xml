@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c47fd246-d0cf-4cf3-9933-3002de00a9a5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.01-Exercise-RunYourFirstTask/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.02-Exercise-InstallGradle/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.03-Demo-GroovyFundamentals/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.04-Demo-GroovyClosuresAndObjects/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.05-Exercise-ExperimentWithGroovy/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.05-Exercise-ExperimentWithGroovy/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.06-Demo-TaskConfiguration/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.07-Exercise-ConfigureATask/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.07-Exercise-ConfigureATask/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.08-Demo-TaskDependencies/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.09-Exercise-ConfigureTaskDependencies/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.09-Exercise-ConfigureTaskDependencies/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.10-Demo-InteractingWithTheFileSystem/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.10-Demo-InteractingWithTheFileSystem/images/bird.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.10-Demo-InteractingWithTheFileSystem/images/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.10-Demo-InteractingWithTheFileSystem/images/dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/src/docs/install.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/src/docs/install.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/src/docs/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/src/web/images/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/src/web/images/dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.11-Exercise-ConfigureFileSystemTasks/src/web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/src/docs/install.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/src/docs/install.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/src/docs/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/src/web/images/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/src/web/images/dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.12-Exercise-ExploreIncrementalBuilds/src/web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.13-Demo-ParameterisingYourBuild/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.13-Demo-ParameterisingYourBuild/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.14-Exercise-UseGradleProperties/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.14-Exercise-UseGradleProperties/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.14-Exercise-UseGradleProperties/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.14-Exercise-UseGradleProperties/src/web/images/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.14-Exercise-UseGradleProperties/src/web/images/dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.14-Exercise-UseGradleProperties/src/web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.15-Demo-CustomTaskTypes/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.16-Exercise-CreateATaskType/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.16-Exercise-CreateATaskType/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.17-Exercise-InvestigateLogging/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.17-Exercise-InvestigateLogging/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.18-Exercise-ExploreTheBuildLifecycle/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/1.18-Exercise-ExploreTheBuildLifecycle/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.01-Demo-ApplyingTheJavaPlugin/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.01-Demo-ApplyingTheJavaPlugin/src/main/java/com/udacity/gradle/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.02-Exercise-UseTheJavaPlugin/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.02-Exercise-UseTheJavaPlugin/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.02-Exercise-UseTheJavaPlugin/src/main/java/com/udacity/gradle/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.03-Exercise-ConfigureTheJavaPlugin/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.03-Exercise-ConfigureTheJavaPlugin/java/CustomPerson.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.03-Exercise-ConfigureTheJavaPlugin/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.03-Exercise-ConfigureTheJavaPlugin/src/main/java/com/udacity/gradle/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.04-Demo-WorkingWithRepositories/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.05-Demo-DeclaringDependencies/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.06-Exercise-DeclareARepositoryAndDependencies/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.06-Exercise-DeclareARepositoryAndDependencies/libs/commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.06-Exercise-DeclareARepositoryAndDependencies/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.07-Demo-DependencyReports/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.08-Demo-Configurations/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.09-Exercise-AddDependenciesToCustomConfiguration/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.09-Exercise-AddDependenciesToCustomConfiguration/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.09-Exercise-AddDependenciesToCustomConfiguration/src/main/java/com/udacity/gradle/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.10-Demo-JavaUnitTests/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.10-Demo-JavaUnitTests/src/main/java/com/udacity/gradle/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.10-Demo-JavaUnitTests/src/test/java/com/udacity/gradle/test/PersonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.11-Exercise-WorkWithUnitTests/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.11-Exercise-WorkWithUnitTests/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.11-Exercise-WorkWithUnitTests/src/main/java/com/udacity/gradle/Echo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.11-Exercise-WorkWithUnitTests/src/main/java/com/udacity/gradle/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.11-Exercise-WorkWithUnitTests/src/test/java/com/udacity/gradle/test/EchoTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.11-Exercise-WorkWithUnitTests/src/test/java/com/udacity/gradle/test/PersonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.12-Demo-AdvancedGradleWrapper/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.12-Demo-AdvancedGradleWrapper/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.12-Demo-AdvancedGradleWrapper/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.12-Demo-AdvancedGradleWrapper/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.12-Demo-AdvancedGradleWrapper/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.13-Exercise-ConfigureTheGradleWrapper/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/2.13-Exercise-ConfigureTheGradleWrapper/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.01-Demo-ImportingGradleProjects/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.01-Demo-ImportingGradleProjects/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.02-Exercise-ImportAJavaProject/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.02-Exercise-ImportAJavaProject/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.02-Exercise-ImportAJavaProject/src/main/java/com/udacity/gradle/JokeTeller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/androidTest/java/com/example/android/myapplication/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/java/com/example/android/myapplication/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.03-Demo-TheDefaultAndroidBuildScripts/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/androidTest/java/com/example/udacity/myapplication/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/java/com/example/udacity/myapplication/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/java/com/example/udacity/myapplication/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.04-Demo-BuildTypes/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/androidTest/java/com/udacity/gradle/buildtypes/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/java/com/udacity/gradle/buildtypes/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.05-Exercise-ConfigureBuildTypes/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/androidTest/java/com/example/udacity/declaringflavors/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/free/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/java/com/example/udacity/declaringflavors/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/java/com/example/udacity/declaringflavors/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/app/src/paid/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.06-Demo-DeclaringFlavors/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/androidTest/java/com/udacity/gradle/buildflavors/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/free/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/java/com/udacity/gradle/buildflavors/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/app/src/paid/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.07-Exercise-DeclareFlavors/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/androidTest/java/com/udacity/gradle/flavorspecificactivity/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/java/com/udacity/gradle/flavorspecificactivity/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/java/com/udacity/gradle/flavorspecificactivity/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/androidTest/java/com/udacity/gradle/flavorspecificactivity/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/free/java/com/udacity/gradle/flavorspecificactivity/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/free/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/java/com/udacity/gradle/flavorspecificactivity/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/java/com/udacity/gradle/flavorspecificactivity/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/java/com/udacity/gradle/flavorspecificactivity/paid/JokeActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/java/com/udacity/gradle/flavorspecificactivity/paid/JokeActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/layout/activity_joke.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/layout/fragment_joke.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/menu/menu_joke.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/app/src/paid/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.08-Exercise-AddAFlavor-SpecificActivity/solution/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/androidTest/java/com/udacity/gradle/adsupported/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/free/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/free/java/com/udacity/gradle/adsupported/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/free/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/free/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/java/com/udacity/gradle/adsupported/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/paid/java/com/udacity/gradle/adsupported/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/app/src/paid/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/3.09-Demo-Flavor-SpecificDependencies/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/androidTest/java/com/udacity/gradle/javalibrarydemo/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/java/com/udacity/gradle/javalibrarydemo/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/java/com/udacity/gradle/javalibrarydemo/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/javaJokes/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/javaJokes/src/main/java/com/udacity/gradle/jokes/Joker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/javaJokes/src/test/java/com/udacity/gradle/jokes/test/JokerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.01-Demo-CreatingAJavaLibrary/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/exercise.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/androidTest/java/com/example/udacity/myapplication/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/java/com/example/udacity/myapplication/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/java/com/example/udacity/myapplication/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/manualJokes/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/manualJokes/src/main/java/com/udacity/example/jokes/JokeSmith.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/wizardJokes/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/wizardJokes/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.02-Exercise-CreateAJavaLibrary/solution/wizardJokes/src/main/java/com/udacity/example/jokes/JokeWizard.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/androidTest/java/com/udacity/gradle/androidlibrarydemo/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/java/com/udacity/gradle/androidlibrarydemo/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/java/com/udacity/gradle/androidlibrarydemo/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/androidTest/java/com/udacity/gradle/imageactivity/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/java/com/udacity/gradle/imageactivity/ImageActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/java/com/udacity/gradle/imageactivity/ImageActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/drawable/gradlelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/layout/activity_image.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/layout/fragment_image.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/menu/menu_image.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/imageactivity/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.03-Demo-CreatingAnAndroidLibrary/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/exercise.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/androidTest/java/com/udacity/gradle/androidlibraryexercise/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/java/com/udacity/gradle/androidlibraryexercise/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/java/com/udacity/gradle/androidlibraryexercise/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/androidTest/java/com/udacity/gradle/jokedisplay/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/java/com/udacity/gradle/jokedisplay/JokeActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/java/com/udacity/gradle/jokedisplay/JokeActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/res/layout/activity_joke.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/res/layout/fragment_joke.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/res/menu/menu_joke.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokedisplay/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokesource/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokesource/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/jokesource/src/main/java/com/udacity/gradle/jokesource/JokeSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.04-Exercise-CreateAnAndroidLibrary/solution/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/androidTest/java/com/udacity/gradle/signing/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/java/com/udacity/gradle/signing/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/keystore.jks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.05-Demo-AddingASigningConfiguration/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/androidTest/java/com/udacity/gradle/automaticsigning/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/java/com/udacity/gradle/automaticsigning/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/java/com/udacity/gradle/automaticsigning/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/app/src/release/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.06-Exercise-ConfigureSigning/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/androidTest/java/com/udacity/gradle/multidex/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods0.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods10.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods100.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods11.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods12.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods13.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods14.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods15.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods16.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods17.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods18.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods19.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods20.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods21.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods22.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods23.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods24.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods25.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods26.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods27.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods28.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods29.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods30.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods31.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods32.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods33.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods34.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods35.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods36.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods37.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods38.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods39.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods40.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods41.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods42.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods43.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods44.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods45.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods46.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods47.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods48.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods49.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods5.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods50.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods51.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods52.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods53.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods54.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods55.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods56.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods57.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods58.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods59.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods6.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods60.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods61.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods62.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods63.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods64.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods65.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods66.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods67.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods68.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods69.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods7.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods70.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods71.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods72.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods73.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods74.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods75.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods76.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods77.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods78.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods79.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods8.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods80.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods81.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods82.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods83.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods84.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods85.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods86.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods87.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods88.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods89.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods9.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods90.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods91.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods92.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods93.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods94.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods95.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods96.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods97.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods98.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/java/com/udacity/gradle/multidex/Methods99.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.07-Demo-MultidexSupport/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/androidTest/java/com/udacity/gradle/proguard/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/java/com/udacity/gradle/proguard/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/java/com/udacity/gradle/proguard/MainActivityFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/layout/fragment_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.08-Demo-ConfiguringProguard/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/androidTest/java/com/udacity/gradle/testing/EchoAndroidTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/androidTestPaid/java/com/udacity/gradle/testing/PaidEchoAndroidTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/java/com/udacity/gradle/testing/Echo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/java/com/udacity/gradle/testing/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/menu/menu_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/paid/java/com/udacity/gradle/testing/paid/PaidEcho.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/test/java/com/udacity/gradle/testing/EchoTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/app/src/testPaid/java/com/udacity/gradle/testing/paid/PaidEchoTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.09-Demo-AndroidUnitTesting/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/java/com/example/android/clickcounter/ClickActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/java/com/example/android/clickcounter/ClickCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/java/com/example/android/clickcounter/ClickFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/layout-land/activity_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/layout-land/fragment_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/layout/activity_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/layout/fragment_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/menu/menu_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/values-land/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/androidTest/java/com/example/android/clickcounter/ButtonClickTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/java/com/example/android/clickcounter/ClickActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/java/com/example/android/clickcounter/ClickCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/java/com/example/android/clickcounter/ClickFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/layout-land/activity_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/layout-land/fragment_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/layout/activity_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/layout/fragment_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/menu/menu_click.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/values-land/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/app/src/test/java/com/example/android/clickcounter/CountTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/4.10-Exercise-SetUpUnitTesting/solution/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/solution.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/src/docs/install.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/src/docs/install.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/src/docs/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/src/web/images/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/src/web/images/dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/01-Exercise-CreateATaskRule/src/web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/02-Demo-ProjectDependencies/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/02-Demo-ProjectDependencies/projA/foo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/Bonus/02-Demo-ProjectDependencies/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ud867/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ud867" afterPath="$PROJECT_DIR$/ud867" />
+    </list>
+    <ignored path="JokeTeller-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JokeTeller-master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JokeTeller-master">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ud867">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JokeTeller-master">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ud867">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="FinalProject">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JokeTeller-master">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c47fd246-d0cf-4cf3-9933-3002de00a9a5" name="Default" comment="" />
+      <created>1464411441878</created>
+      <option name="number" value="Default" />
+      <updated>1464411441878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.121854305" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

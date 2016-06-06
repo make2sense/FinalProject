@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jokesLibAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="barTitle">A Funny JOKE</string>
+</resources>
